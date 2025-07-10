@@ -35,3 +35,4 @@ Classroom discussion apps
 Group messaging within any web-based system
 It showcases practical implementation of core real-time communication concepts, responsive UI development using React, and fundamental backend setup using Node.js.
 OUTPUT
+![Image](https://github.com/user-attachments/assets/d055890c-a4fb-4c71-b5f3-49a11de9cff2)
